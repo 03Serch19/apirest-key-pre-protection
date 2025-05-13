@@ -6,4 +6,4 @@ Es un microservicio que puede escalar para atender a muchos más clientes que de
 
 Desarrollado con JavaSE y Jakarta EE, en Spring boot, Spring rest, con implementación futura de spring security 
 
-Mayo 2025
+2025
